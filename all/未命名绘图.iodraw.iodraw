@@ -50,7 +50,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tbZKUaU4kwaOD9AsIhRR-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;strokeColor=#3333FF;" edge="1" parent="1">
+        <mxCell id="tbZKUaU4kwaOD9AsIhRR-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;strokeColor=#3333FF;fillColor=#66FFFF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="-1060" as="sourcePoint" />
             <mxPoint x="360" y="-1060" as="targetPoint" />
