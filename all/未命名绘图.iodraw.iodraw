@@ -74,7 +74,7 @@
         <mxCell id="tbZKUaU4kwaOD9AsIhRR-22" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;心&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;理&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;摊&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;位&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="970" y="-953" width="60" height="208" as="geometry" />
         </mxCell>
-        <mxCell id="tbZKUaU4kwaOD9AsIhRR-23" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tbZKUaU4kwaOD9AsIhRR-23" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;劳动兑换处&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="405" y="-361" width="116" height="30" as="geometry" />
         </mxCell>
       </root>
